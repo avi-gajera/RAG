@@ -1,0 +1,27 @@
+# Backend - FastAPI
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+python-multipart==0.0.20
+
+# Frontend - Streamlit
+streamlit==1.45.1
+requests==2.32.3
+
+# LLM - Groq
+groq==0.25.0
+
+# Vector DB - Qdrant
+qdrant-client==1.14.2
+
+# Embeddings
+sentence-transformers==4.1.0
+
+# PDF Processing
+PyMuPDF==1.25.5
+
+# Text Splitting
+langchain-text-splitters==0.3.8
+
+# Config
+python-dotenv==1.1.0
+pydantic-settings==2.9.1
